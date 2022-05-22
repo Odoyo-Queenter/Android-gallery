@@ -35,7 +35,7 @@
         android:id="@+id/textView5"
         android:layout_width="375dp"
         android:layout_height="169dp"
-        android:layout_marginBottom="168dp"
+        android:layout_marginBottom="144dp"
         android:text=" Cocktails typically have a base liquor, like vodka or gin, and come with other flavored ingredients like fruit juice. Some drinks are simple and only involve two liquid ingredients."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
